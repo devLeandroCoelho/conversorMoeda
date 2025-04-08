@@ -40,7 +40,7 @@ function convert() {
                 <td class="app-table__cell">Quantidade</td>
               </tr>
               <tr class="app-table__row">
-                <td class="app-table__cell">1 real (R$ 0,50)</td>
+                <td class="app-table__cell">1 real (R$ 1,00)</td>
                 <td class="app-table__cell">${real1}</td>
               </tr>
               <tr class="app-table__row">
